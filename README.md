@@ -8,7 +8,7 @@ Here is a short description of each of the files in the repo:
 
 This file was used to take sequences in the GenBank Full format and scrape out relevant data including the sequence and whether the sequence was on the left or right side of T-DNA insertion. It then generated cases of "no insertion" by randomly selecting sequences from the A. thaliana genome and formatted all samples in a Pandas DataFrame that was interpretable for Sci-Kit Learn's classifiers.
 
-# TNDA-GCPlotter.ipynb
+# TNDA-GcContentPlotter.ipynb
 
 This file can take lists of sequences and plot the distributions of GC content using matplotlib. It can also run a Mann-Whitney U test between two distributions.
 
