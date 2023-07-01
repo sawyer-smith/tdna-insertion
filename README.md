@@ -22,7 +22,7 @@ Feature importance was computed in this file by taking each feature, randomly pe
 
 # Acknowledgements
 
-Thank you to Dr. Azin Agah who advised met through this project! 
+Thank you to Dr. Azin Agah who advised me through this project! 
 
 All sequences used in this project were taken GenBank and were generated as a result of the following studies:
 
